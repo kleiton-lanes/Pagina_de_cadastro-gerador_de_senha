@@ -47,11 +47,11 @@ input:focus{
 }
 
 #register-banner h1{
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin: 2rem auto;
-    color: #075023;
+    color: #028032;
     word-spacing: 50rem;
-    text-shadow: 0.1em 0.1em 0.2em #0c7434;
+    text-shadow: 0.1em 0.1em 0.2em #00fa60;
 }
 
 #register-form {
